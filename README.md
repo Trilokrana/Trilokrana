@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Trilok Rana</h1>
-<h3 align="center">Passionate Frontend Developer with expertise in Next.js, React, Javascript, Tailwind</h3>
+<h3 align="center">Passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, React,Next.Js,Redux, Tailwind, Material UI, Shadcn UI, Bootstrap </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="trilokrana" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about ** Next.js, React, JavaScript**
+- 💬 Ask me about ** React, JavaScript,  Next.JS, Redux, node.js, MongoDB, **
 
-- 📫 How to reach me **Instagram : trilok_rana**
+- 📫 How to reach me **Instagram : trilok_rana77**
 
 - ⚡ Fun fact **The name "GitHub" is a combination of the words "git" and "hub." Git is a version control system, and a hub is a central location where people can share and collaborate on code.
 - The GitHub logo is a stylized version of a tortoise and hare. The tortoise represents the slow and steady approach to software development, while the hare represents the quick and flashy approach.
