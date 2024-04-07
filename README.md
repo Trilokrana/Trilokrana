@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hii there 👋
 
 <h1 align="center">Hi 👋, I'm Trilok Rana</h1>
-<h3 align="center">Passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, React,Next.Js,Redux, Tailwind, Material UI, Shadcn UI, Bootstrap </h3>
+<h3 align="center">Passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, React,Next.Js,Redux, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Hyper UI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="trilokrana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilokrana" alt="trilokrana" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about ** React, JavaScript,  Next.JS, Redux, node.js, MongoDB, **
 
