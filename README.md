@@ -4,7 +4,8 @@
 <h3 align="center">Passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, React,Next.Js,Redux, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Hyper UI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="trilokrana" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=trilokrana)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Trilokrana)](https://github.com/Trilokrana/github-profile-trophy)" alt="trilokrana" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilokrana" alt="trilokrana" /></a> </p>
 
