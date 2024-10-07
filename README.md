@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Trilok Rana</h1>
 <h3 align="center">Passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, React,Next.Js,Redux, Tailwind CSS, Material UI, Shadcn UI, Bootstrap, Hyper UI </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="Trilokrana" /> </p>
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Trilokrana)](https://github.com/Trilokrana/github-profile-trophy)" alt="Trilokrana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="trilokrana" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilokrana" alt="trilokrana" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -37,9 +37,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trilokrana&" alt="trilokrana" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilokrana&show_icons=true&locale=en&layout=compact" alt="trilokrana" /></p>
-
-
-
-
-
-
