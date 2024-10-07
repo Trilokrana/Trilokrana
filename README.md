@@ -7,8 +7,6 @@
 <p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Trilokrana)](https://github.com/Trilokrana/github-profile-trophy)" alt="trilokrana" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilokrana" alt="trilokrana" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about ** React, JavaScript,  Next.JS, Redux, node.js, MongoDB, **
