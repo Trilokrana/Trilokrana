@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilokrana" alt="trilokrana" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web 3.0 and Generative AI**
 
 - 💬 Ask me about ** React, JavaScript,  Next.JS, Redux, node.js, MongoDB, **
 
