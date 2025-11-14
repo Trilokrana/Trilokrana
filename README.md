@@ -1,7 +1,7 @@
 ### Hii there 👋
 
 <h1 align="center">Hi 👋, I'm Trilok Rana</h1>
-<h3 align="center"Experienced Software Developer with expertise in React, Next.Js, HTML5, CSS3, JavaScript, Typescript, Tailwind CSS, PHP, Laravel, MYSQL, Redux, Material UI, Shadcn UI, Bootstrap, Hyper UI, CHAKRA UI </h3>
+<h3 align="center"Experienced Software Developer with expertise in React, Next.Js, HTML5, CSS3, JavaScript, Typescript, Tailwind CSS, PHP, Laravel, MYSQL, Supabase, Shadcn UI, Ant Design, Zustand, Redux, Material UI, Shadcn UI, Bootstrap, Hyper UI, CHAKRA UI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokrana&label=Profile%20views&color=0e75b6&style=flat" alt="trilokrana" /> </p>
 
